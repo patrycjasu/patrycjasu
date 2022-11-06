@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, I’m Patrycja</h1>
 <h3 align="center">High school student interested in programming.</h3> 
 
-- 🎮 I want to be **game developer** in the future
+- 🎮 I want to be a **game developer** in the future
 - 🔭 I’m currently working on **2D games in Godot**
 
 - 🌱 I’m currently learning **JS, GDScript**
