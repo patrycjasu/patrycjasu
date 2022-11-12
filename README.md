@@ -4,7 +4,7 @@
 - 🎮 I want to be a **game developer** in the future
 - 🔭 I’m currently working on **2D games in Godot**
 
-- 🌱 I’m currently learning **JS, GDScript**
+- 🌱 I’m currently learning **GDScript**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" 
