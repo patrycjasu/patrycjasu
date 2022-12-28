@@ -1,8 +1,7 @@
 <h1 align="center">👋Hi, I’m Patrycja aka Tosti</h1>
-<h3 align="center">High school student interested in programming.</h3> 
+<h3 align="center">High school student interested in programming.</h3>
 
-- 🎮 I want to be a **game developer** in the future
-- 🌱 I’m currently learning **frameworks in Python**
+🌱
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" 
